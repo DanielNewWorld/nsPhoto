@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_new" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Новые" />
+        <!--<item android:id="@+id/nav_favorite" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Лучшие" />-->
+        <!--<item android:id="@+id/nav_nature" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Природа" />
+        <item android:id="@+id/nav_Gun_Suk" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Чан Гын Сок" />
+        <item android:id="@+id/nav_Pak" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Пак Шин Хи" />-->
+    </group>
+
+    <!--<item android:title="Дополнительно">
+        <menu>
+            <item android:id="@+id/nav_category" android:icon="@android:drawable/ic_menu_manage"
+                android:title="Категории" />
+            <item android:id="@+id/nav_no_reklama" android:icon="@android:drawable/ic_menu_share"
+                android:title="Отписаться от рекламы" />
+            <item android:id="@+id/nav_premium" android:icon="@android:drawable/ic_menu_send"
+                android:title="Перейти на Premium" />
+            <item android:id="@+id/nav_like" android:icon="@android:drawable/ic_menu_today"
+                android:title="Поставить лайк" />
+        </menu>
+    </item>-->
+
+</menu>
